@@ -1,7 +1,3 @@
-Zaylin Arata
-Z23260518
-zaratafiguer2013
-Assignment 2 - CIS 5371
 =========================================DESApplication Info==============================================
 
 DESApplication is a java application that implements the Data Encryption Standard (DES) algorithm.
